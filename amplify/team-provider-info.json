@@ -17,6 +17,9 @@
       },
       "api": {
         "chesscake": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
